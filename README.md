@@ -1,5 +1,5 @@
-# smartDictionary
-## Project for fun 1
+# Project for fun 1
+## smartDictionary
 An interactive dictionary which simply return dictionary meaning of word provided by users.
 This is a simple yet powerful program which uses API calls and many useful libraries worth learning.
 
